@@ -62,11 +62,10 @@
 </layers>
 <board>
 <plain>
-<wire x1="0" y1="0" x2="0" y2="52.07" width="0.1524" layer="20"/>
-<wire x1="0" y1="52.07" x2="102.87" y2="52.07" width="0.1524" layer="20"/>
-<wire x1="102.87" y1="52.07" x2="102.87" y2="0" width="0.1524" layer="20"/>
-<wire x1="102.87" y1="0" x2="0" y2="0" width="0.1524" layer="20"/>
-<text x="1.27" y="1.27" size="1.778" layer="25">paradigm</text>
+<wire x1="0" y1="0" x2="0" y2="50.8" width="0.1524" layer="20"/>
+<wire x1="0" y1="50.8" x2="101.6" y2="50.8" width="0.1524" layer="20"/>
+<wire x1="101.6" y1="50.8" x2="101.6" y2="0" width="0.1524" layer="20"/>
+<wire x1="101.6" y1="0" x2="0" y2="0" width="0.1524" layer="20"/>
 </plain>
 <libraries>
 </libraries>
